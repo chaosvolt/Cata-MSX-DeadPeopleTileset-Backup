@@ -1,0 +1,204 @@
+On July 31 2019
+
+----------------------------------------------------------------------------
+
+Main Game Package:
+
+
+---[Core Content Packs]---
+
+Dark Days Ahead - full support, unique corpses
+
+Aftershock - partial support, unique corpses
+
+C.R.I.T Expansion Mod - partial support, unique corpses
+
+Desert Region - full support, NO unique corpses
+
+Magiclysm - partial support, unique corpses
+
+
+
+---[Item Addition Mods]---
+
+Bens GF recipes - full support
+
+Craftable Gun Pack - full support
+
+DeadLeaves' Fictional Guns - partial support
+
+Extended Realistic Guns - full support
+
+Garden Pots - partial support
+
+Generic Guns - full support
+
+Icecoon's Arsenal - full support
+
+Makeshift Items Mod - full support
+
+Medieval and Historic Content - full support
+
+More Survival Tools - full support		
+
+Mythological Replicas - full support
+
+
+
+
+---[Creature Mods]---
+
+DinoMod - full support, unique corpses
+
+Modular Turrets - partial support
+
+Salvaged Robots - partial support
+
+
+
+
+---[Misc Additions]---
+
+Alternative Map Key - full support
+
+Crazy Cataclysm - full support, NO unique corpses
+
+Fast Healing - full support
+
+Hydroponics - partial support
+
+Mutant NPCs - full support
+
+Mythical Martial Arts - full support
+
+
+
+
+---[Buildings Mods]---
+
+Beta National Guard Camp - full support
+
+Fuji's More Buildings - full support
+
+Mapgen Demo - full support
+
+More Locations - full support
+
+Urban Development - full support
+
+
+
+---[Vehicle Mods]---
+
+Folding Parts pack - full support
+
+Tanks and Other Vehicles - full support
+
+Vehicle Additions Pack - full support
+
+
+
+---[Magical Mods]---
+
+Necromancy - full support
+
+
+
+---[Graphical Mods]---
+
+All graphical mods has Dead People support IF they are designed to work with it. (graphical mod for RetroDays will not work with Dead People and vice versa)
+information about it should be present in title of the mod (DP_ - this graphical mod is for Dead People tilese) or in mod description
+
+
+----------------------------------------------------------------------------
+
+Other Mods:
+
+
+---[Core Content Packs]---
+
+Psychiclysm - NO support https://github.com/CleverRaven/Cataclysm-DDA/files/3450206/Psychiclysm.zip
+
+---[Item Addition Mods]---
+
+Advanced Gear - full support https://github.com/Lorith/AdvancedGear-CDDA-Mod
+
+Battery Packs - NO support http://www.mediafire.com/file/pklz0guy3pr5zn1/sunshine_small_mods.zip/file
+
+Dried Fruits - NO support https://discourse.cataclysmdda.org/t/mod-that-adds-dried-fruits-raisins-and-such-update-04-22-19-for-experimental-builds/17506
+
+Lighting Ammo - NO support http://www.mediafire.com/file/pklz0guy3pr5zn1/sunshine_small_mods.zip/file
+
+More Survival Tools EXTRA - full support https://github.com/chaosvolt/MST_Extra_Mod
+
+Pizza Delivery - full support http://www.mediafire.com/file/pklz0guy3pr5zn1/sunshine_small_mods.zip/file
+
+Space Heater - full support http://www.mediafire.com/file/pklz0guy3pr5zn1/sunshine_small_mods.zip/file
+
+Artyom' Gun Emporium-Reloaded - partial support, LAZY PLUG https://mega.nz/#!jBIwVSSD!nlFJlnEvvUi9Z8AhIbEQqUxc0F7hYIXfOpEKay1eybE
+
+Modern Weapon Pack Expanded - partial support, LAZY PLUG https://github.com/BorkBorkGoesTheCode/Modern-Weapons-Pack-Expanded/
+
+Xtal Gems - NO support https://discourse.cataclysmdda.org/t/the-art-of-the-xtal-gem-mod/16219
+
+---[Creature Mods]---
+
+Draco's Dog Mod - NO support https://github.com/DracoGriffin/DG_Mods
+
+PKs Rebalancing - full support, unique corpses https://github.com/Dissociativity/PKs_Rebalancing
+
+Secronom - partial support, mod tileset https://github.com/Axema/Secronom-Zombies
+
+Youkai Enemies - partial support, mod tileset https://github.com/Toltetix/cdda-youkai-mod
+
+Mutant Animals - full support, unique corpses https://github.com/CleverRaven/Cataclysm-DDA/files/3295493/Sunshine.Animal.Mods.zip
+
+Mutant Insects - full support, unique corpses https://github.com/CleverRaven/Cataclysm-DDA/files/3295493/Sunshine.Animal.Mods.zip
+
+---[Misc Additions]---
+
+Cataclysm++ - partial support, unique corpses https://github.com/Noctifer-de-Mortem/nocts_cata_mod
+
+Food Irradiator - NO support http://www.mediafire.com/file/pklz0guy3pr5zn1/sunshine_small_mods.zip/file
+
+Locked Locker - NO support http://www.mediafire.com/file/pklz0guy3pr5zn1/sunshine_small_mods.zip/file
+
+Mining Mod - full support https://github.com/DangerNoodle/mining-mod
+
+NPC Recruitment Options - full support http://www.mediafire.com/file/pklz0guy3pr5zn1/sunshine_small_mods.zip/file
+
+Book Scanner Mod - full support https://github.com/Regularitee/bookscanner
+
+Jury-Rigged Robots - NO support https://github.com/TheSalamanderDJ/Jury-Rigged-Robots
+
+
+
+---[Buildings Mods]---
+
+Dorf Life - full support https://github.com/chaosvolt/Dorf-Life-CDDA
+
+Morlock Village - partial support http://www.mediafire.com/file/pklz0guy3pr5zn1/sunshine_small_mods.zip/file
+
+Randomized Mall - NO support http://www.mediafire.com/file/pklz0guy3pr5zn1/sunshine_small_mods.zip/file
+
+
+
+---[Vehicle Mods]---
+
+
+
+---[Magical Mods]---
+
+Arcana and Magic Items - partial support, mod tileset https://github.com/chaosvolt/cdda-arcana-mod
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+full support - means what there is no missing graphics in the mod according to debug.log (this file do not count mutations, installed bionics or effects as missing even if they do not have appropriate tile assigned for it)
+partial support - some of the objects in the module has graphics some of them still do not
+NO support - none of the objects in the module was covered by this tileset
+unique corpses - all creatures in this module has appropriate "dead body" graphics assigned to them
+NO unique corpses - all or some creatures in this module do not have appropriate "dead body" graphics and will use default "mangled human corpse" as their remains
+mod tileset - mod has it's own tileset what will work alongside mine and will add missing graphics or even change some graphics what already covered by Dead People tileset. If mod has tileset what will not made to work with Dead People when it will not be mention.
+LAZY PLUG - graphics for the mod is present, but tiles for each weapon is not unique and use common "pistol", "rifle", etc graphics.
