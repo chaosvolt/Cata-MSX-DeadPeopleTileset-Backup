@@ -1,14 +1,4 @@
-#MSX++DEAD_PEOPLE TILESET
-#SomeDeadGuy's Tileset for Main DDA Repo
-
-#Name of the tileset
-NAME: MSX++DEAD_PEOPLE
-
-#Viewing (Option) name of the tileset
-VIEW: MSX++DEAD_PEOPLE
-
-#JSON Path - Default of tile_config.json
+NAME: UNDEAD_PEOPLE
+VIEW: UNDEAD_PEOPLE
 JSON: tile_config.json
-
-#Tileset Path - Default of tinytile.png
 TILESET: tiles.png
