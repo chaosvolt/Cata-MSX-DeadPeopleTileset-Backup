@@ -1,4 +1,6 @@
-This is just a backup of the DeadPeopleTileset, originally by @SomeDeadGuy. As it's no longer available in the Cataclysm DDA repo itself, only the primary tileset is included, as the UndeadPeopleEdition was solely a development tileset named to not compete with the version in CDDA's repository, and was otherwise identical to the version preserved here.
+This is just a backup of the DeadPeopleTileset just in case anything happens, by @SomeDeadGuy. This was needed for a brief while when SDG went on hiatus, and is being retained just in case, **get the proper up-to-date version here:** https://github.com/SomeDeadGuy/UndeadPeopleTileset
+
+Only the primary tileset is included, as the UndeadPeopleEdition was solely a development tileset named to not compete with the version in CDDA's repository, and was otherwise identical to the version preserved here.
 
 Also preserved are the optional GUI-altering mods specific to the original repo, the Russian and German translations of SDG's original readme, and the content list.
 
