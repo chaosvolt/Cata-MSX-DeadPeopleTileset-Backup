@@ -1,0 +1,9 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSBunker_escape",
+    "copy-from": "SecronomSSBunker_escape",
+    "sym": "\u00A8",
+    "color": "brown"
+  }
+]
